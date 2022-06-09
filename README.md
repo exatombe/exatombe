@@ -23,15 +23,26 @@ I'm Jérémy Soler, a Web and mobile App developer (React/React-native)
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#e22828",
+        "marker-color": "#004de6",
         "marker-size": "medium",
         "marker-symbol": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3793768882751465,
-          48.801662612342525
+          2.3546656966209407,
+          48.844233988332086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34108567237854,
+          48.87094292586753
         ]
       }
     }

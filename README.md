@@ -15,6 +15,8 @@ I'm Jérémy Soler, a Web and mobile App developer (React/React-native)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garder500&theme=material-palenight&layout=compact)
 
 ---
+### Coding activity
+
 <!--START_SECTION:waka-->
 
 ```text

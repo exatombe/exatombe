@@ -4,8 +4,8 @@ I'm Jérémy Soler, a Web and mobile App developer (React/React-native)
 
 
 ### My actuals projects 
-- 🔭 Bot-Creator
-- 🌱 Tomodachi Game (Web, mobile and why not in VR ? )
+- 🔭 Yaboku (Dating App, but not as you think
+- 🌱 CardiaCMS (A CMS you didn't know about)
 
 ### My Githubs Stats
 
@@ -14,38 +14,6 @@ I'm Jérémy Soler, a Web and mobile App developer (React/React-native)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garder500&theme=material-palenight&layout=compact)
 
-### My Location
+### Global Stats 
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#004de6",
-        "marker-size": "medium",
-        "marker-symbol": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3546656966209407,
-          48.844233988332086
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.34108567237854,
-          48.87094292586753
-        ]
-      }
-    }
-  ]
-}
-```
+![Snake.svg](https://github.com/AiroPi/AiroPi/blob/output/github-contribution-grid-snake.svg)

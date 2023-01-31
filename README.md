@@ -16,4 +16,4 @@ I'm Jérémy Soler, a Web and mobile App developer (React/React-native)
 
 ### Global Stats 
 
-![Snake.svg](https://github.com/AiroPi/AiroPi/blob/output/github-contribution-grid-snake.svg)
+![Snake.svg](https://github.com/garder500/garder500/blob/output/github-contribution-grid-snake.svg)

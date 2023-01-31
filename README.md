@@ -13,6 +13,12 @@ I'm Jérémy Soler, a Web and mobile App developer (React/React-native)
 ![Garder500's GitHub stats](https://github-readme-stats.vercel.app/api?username=garder500&show_icons=true&theme=material-palenight&include_all_commits=true&custom_title=My%20Github%20Stats)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garder500&theme=material-palenight&layout=compact)
+---
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+---
 
 ### Global Stats 
 

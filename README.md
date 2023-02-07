@@ -20,14 +20,13 @@ I'm Jérémy Soler, a Web and mobile App developer (React/React-native)
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 15 hrs 35 mins
+Total Time: 13 hrs 51 mins
 
-TypeScript      4 hrs 46 mins   ███████▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   30.00 %
-Vue.js          4 hrs 27 mins   ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   28.03 %
-PHP             3 hrs 39 mins   █████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   22.96 %
-JavaScript      59 mins         █▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.28 %
-JSON            58 mins         █▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.16 %
-HTML            35 mins         ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.70 %
+TypeScript      4 hrs 50 mins   ████████▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   34.22 %
+Vue.js          4 hrs 37 mins   ████████▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   32.62 %
+PHP             3 hrs 39 mins   ██████▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   25.78 %
+HTML            35 mins         █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.15 %
+Other           18 mins         ▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   02.23 %
 ```
 
 <!--END_SECTION:waka-->

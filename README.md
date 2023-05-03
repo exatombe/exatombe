@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I'm Jérémy Soler, a Web and mobile App developer (React/React-native)
+I'm Garder500, a Web and mobile App developer (React/React-native)
 
 
 ### My actuals projects 
-- 🔭 Yaboku (Dating App, but not as you think
-- 🌱 CardiaCMS (A CMS you didn't know about)
+- 🔭 Cardia the IA Bot
+- 🌱 Bot-Creator, to make your Own Bot
 
 ### My Githubs Stats
 

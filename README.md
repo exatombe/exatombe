@@ -22,8 +22,7 @@ I'm Garder500, a Web and mobile App developer (React/React-native)
 ```txt
 Total Time: 0 secs
 
-Dart   0 secs          ███████████████████▆▁▁▁▁▁   79.04 %
-JSON   0 secs          █████▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   20.96 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

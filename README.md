@@ -20,9 +20,10 @@ I'm Garder500, a Web and mobile App developer (React/React-native)
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 7 mins
 
-No activity tracked
+JSON   7 mins          █████████████████████████   99.80 %
+PHP    0 secs          ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.20 %
 ```
 
 <!--END_SECTION:waka-->

@@ -23,10 +23,10 @@ I'm Garder500, a Web and mobile App developer (React/React-native)
 Total Time: 10 hrs 38 mins
 
 JavaScript   4 hrs 45 mins   ██████████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁   42.77 %
-Vue.js       4 hrs 32 mins   ██████████▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁   40.81 %
+Vue.js       4 hrs 32 mins   ██████████▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁   40.80 %
 Other        29 mins         █▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.42 %
 JSON         27 mins         █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.16 %
-Bash         24 mins         ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.61 %
+Bash         24 mins         ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.60 %
 ```
 
 <!--END_SECTION:waka-->

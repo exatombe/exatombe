@@ -20,13 +20,13 @@ I'm Garder500, a Web and mobile App developer (React/React-native)
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 38 mins
+Total Time: 12 hrs 4 mins
 
-JavaScript   4 hrs 45 mins   ██████████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁   42.77 %
-Vue.js       4 hrs 32 mins   ██████████▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁   40.80 %
-Other        29 mins         █▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.42 %
-JSON         27 mins         █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.16 %
-Bash         24 mins         ▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.60 %
+JavaScript   7 hrs 6 mins    █████████████▅▁▁▁▁▁▁▁▁▁▁▁   54.31 %
+Vue.js       3 hrs 16 mins   ██████▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   24.99 %
+Other        1 hr 1 min      ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.86 %
+JSON         51 mins         █▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.50 %
+Bash         24 mins         ▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   03.10 %
 ```
 
 <!--END_SECTION:waka-->

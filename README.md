@@ -9,7 +9,7 @@ I'm Garder500, a Web and mobile App developer (React/React-native)
 
 ### My skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,rust,go,firebase,php,nodejs,nextjs,mysql,postgres,prisma,mongodb,vue,react,nuxtjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,dotnet,rust,go,firebase,php,nodejs,nextjs,mysql,postgres,prisma,mongodb,vue,react,nuxtjs)](https://skillicons.dev)
 
 ### My Githubs Stats
 

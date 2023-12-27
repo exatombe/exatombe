@@ -7,13 +7,17 @@ I'm Garder500, a Web and mobile App developer (React/React-native)
 - 🔭 Cardia the IA Bot
 - 🌱 Bot-Creator, to make your Own Bot
 
+### My skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,rust,go,firebase,php,nodejs,nextjs,mysql,postgres,prisma,mongodb,vue,react,nuxtjs)](https://skillicons.dev)
+
 ### My Githubs Stats
 
 <!--- ![Garder 500 stats](https://github-readme-stats.vercel.app/api?username=garder500&show_icons=true&theme=Gradient) -->
 ![Garder500's GitHub stats](https://github-readme-stats.vercel.app/api?username=garder500&show_icons=true&theme=material-palenight&include_all_commits=true&custom_title=My%20Github%20Stats)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garder500&theme=material-palenight&layout=compact)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,rust,go,firebase,php,nodejs,nextjs,mysql,postgres,prisma,mongodb,vue,react,nuxtjs)](https://skillicons.dev)
+
 ---
 ### Coding activity
 

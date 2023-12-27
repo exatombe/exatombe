@@ -8,7 +8,7 @@ I'm Garder500, a Web and mobile App developer
 
 ### My skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,dotnet,rust,go,firebase,php,nodejs,nextjs,mysql,postgres,prisma,mongodb,vue,react,nuxtjs&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,bots,css,dotnet,rust,go,firebase,php,nodejs,nextjs,mysql,postgres,prisma,mongodb,vue,react,nuxtjs&perline=5)](https://skillicons.dev)
 
 ### My Githubs Stats
 

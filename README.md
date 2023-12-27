@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-I'm Garder500, a Web and mobile App developer (React/React-native)
-
+I'm Garder500, a Web and mobile App developer
 
 ### My actuals projects 
-- 🔭 Cardia the IA Bot
-- 🌱 Bot-Creator, to make your Own Bot
+- 🔭 Ketsuna the IA Bot
+- 🌱 Gazes Novel (Writing project)
 
 ### My skills
 

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Garder500, a Web and mobile App developer
+I'm Exatombe, a Web and mobile App developer
 
 ### My actuals projects 
 - 🔭 Ketsuna the IA Bot

@@ -23,13 +23,13 @@ I'm Exatombe, a Web and mobile App developer
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 15 hrs 22 mins
+Total Time: 13 hrs 46 mins
 
-Go                         4 hrs 41 mins   ███████▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   30.38 %
-JavaScript                 2 hrs 45 mins   ████▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   17.80 %
-XML                        1 hr 42 mins    ██▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   11.00 %
-Docker                     1 hr 38 mins    ██▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   10.59 %
-TypeScript                 1 hr 23 mins    ██▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   09.02 %
+Go           4 hrs 34 mins   ████████▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   33.06 %
+JavaScript   2 hrs 39 mins   ████▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   19.20 %
+XML          1 hr 42 mins    ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   12.28 %
+Docker       1 hr 29 mins    ██▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   10.74 %
+YAML         56 mins         █▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.81 %
 ```
 
 <!--END_SECTION:waka-->
